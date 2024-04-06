@@ -88,3 +88,5 @@ This web site is using `markedjs/marked`. -->
 ![alt text](./6.%20image.png)
 8. Click on **Activate Your App** to activate your app. Now move to app credentials and copy the zoom credentials.
 ![alt text](./7.%20image.png)
+
+
