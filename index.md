@@ -75,14 +75,14 @@ This web site is using `markedjs/marked`. -->
 ![alt text](./1.%20Image%20.png)
 
 3. Provide a name to your app then click on create.
-![alt text](./3.%20image.png)
+![alt text](./2.%20Image%20.png)
 
 4. Now you will get to see **Account ID, Client ID and Client Secret.** Click on continue.
-![alt text](./3.%20image.png)
+![alt text](./secret%20key.png)
 5. Fill out the basic details and then click on continue.
 ![alt text](./4.%20image.png)
 6. Click on continue and skip the feature option.
-![alt text](./5.%20image.png)
+![alt text](./secret%20token.png)
 
 7. Click on **Add Scopes** to add meeting scope and then click on continue.
 ![alt text](./6.%20image.png)
