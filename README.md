@@ -18,5 +18,11 @@
 
 7. Click on **Add Scopes** to add meeting scope and then click on continue.
 ![alt text](./6.%20image.png)
-8. Click on **Activate Your App** to activate your app. Now move to app credentials and copy the zoom credentials.
+![alt text](./scope1.png)
+![alt text](./scope2.png)
+![alt text](./scope3.png)
+![alt text](./scope4.png)
+![alt text](./scope5.png)
+
+9. Click on **Activate Your App** to activate your app. Now move to app credentials and copy the zoom credentials.
 ![alt text](./7.%20image.png)
