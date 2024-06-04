@@ -65,7 +65,7 @@ alert(message);
 ## Inline code
 
 This web site is using `markedjs/marked`. -->
-# LogiqueCode Zoom Crdentials Help Page
+# LogiqueCode Zoom Credentials Help Page
 
 ---
 
@@ -91,7 +91,7 @@ This web site is using `markedjs/marked`. -->
 ![alt text](./scope3.png)
 ![alt text](./scope4.png)
 ![alt text](./scope5.png)
-9. Click on **Activate Your App** to activate your app. Now move to app credentials and copy the zoom credentials.
+8. Click on **Activate Your App** to activate your app. Now move to app credentials and copy the zoom credentials.
 ![alt text](./7.%20image.png)
 
 
